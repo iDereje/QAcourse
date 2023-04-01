@@ -8,13 +8,13 @@ class Person
     public void read()
     {
         name = "Baruch";
-        phno = 928374993;
+        phone = 928374993;
     }
 
     public void show()
     {
         System.out.println("Name = " + name);
-        System.out.println("Phone = " + phno);
+        System.out.println("Phone = " + phone);
     }
 }
 
